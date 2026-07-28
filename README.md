@@ -1,9 +1,9 @@
 ```
 "^^''''`'````````````````````'`'''''''''''''```````````````````````''''^   hashim-sd
 ^`````.``................``````           .``'``...................````'   ------------------------------------------
-'``........         ..```     .:~-[[--+~il"     .``.......   . ........'   OS..........................: Windows Server 2019/2022, Linux
-'.....                   +rzULd#@&&&@@@@B%*mcj[I.  ``.               ..`   Uptime......................: 22 years, 11 months, 9 days
-` .                 `~|rLo%B%%WB&%%$&@B@$$$&88&Wp|:  .                 .   Host........................: Katalyst Business Solutions Pvt Ltd
+'``........         ..```     .:~-[[--+~il"     .``.......   . ........'   OS..........................: Windows, Windows Server 2019/2022, Linux, Ubuntu
+'.....                   +rzULd#@&&&@@@@B%*mcj[I.  ``.               ..`   Uptime......................: 22 years, 11 months, 9 days 
+` .                 `~|rLo%B%%WB&%%$&@B@$$$&88&Wp|:  .                 .   Host........................: Katalyst Business Solutions Pvt Ltd 
 .                  'UoaMMoaaahdhMq*@Mk*$$$$$$@@B$@*Z} .                .   Role........................: System Administrator
 .                 .taha%$&$%M@*okh%Mha%WM@@&@@&&$MB@#(                     Location....................: Navi Mumbai, India
                  'u*kB$B888&$&@$B@BB%W@%@%W#*W&&&8$o#Mv                    
